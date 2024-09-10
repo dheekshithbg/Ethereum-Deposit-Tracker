@@ -1,0 +1,40 @@
+{"level":"error","message":"Tracker initialization failed: ","timestamp":"2024-09-10T08:53:12.589Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 404","timestamp":"2024-09-10T11:07:18.228Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 404","timestamp":"2024-09-10T11:08:33.645Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 404","timestamp":"2024-09-10T11:09:05.726Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 404","timestamp":"2024-09-10T11:10:24.162Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 404","timestamp":"2024-09-10T11:14:02.750Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 404","timestamp":"2024-09-10T11:14:38.786Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 404","timestamp":"2024-09-10T11:16:02.067Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 403","timestamp":"2024-09-10T11:17:10.549Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 403","timestamp":"2024-09-10T11:32:34.585Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 403","timestamp":"2024-09-10T11:33:25.503Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 403","timestamp":"2024-09-10T12:54:53.527Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 403","timestamp":"2024-09-10T13:01:16.196Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 403","timestamp":"2024-09-10T13:01:26.305Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 403","timestamp":"2024-09-10T13:01:35.624Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 400","timestamp":"2024-09-10T13:02:05.755Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 400","timestamp":"2024-09-10T13:02:13.363Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T13:03:59.023Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T13:04:17.152Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T13:04:27.613Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 404","timestamp":"2024-09-10T13:04:35.260Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T13:05:21.958Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 400","timestamp":"2024-09-10T13:06:11.102Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 400","timestamp":"2024-09-10T13:06:26.927Z"}
+{"level":"error","message":"Error sending Telegram notification: Request failed with status code 400","timestamp":"2024-09-10T13:08:57.306Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T13:22:42.902Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T13:33:52.408Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T13:35:57.887Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T13:36:39.038Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T13:58:37.241Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T13:59:21.949Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T14:00:06.859Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T14:00:09.925Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T14:00:23.483Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T14:00:25.092Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T14:03:56.128Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T14:31:17.847Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T14:34:42.774Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T14:37:16.550Z"}
+{"level":"error","message":"Error sending Telegram notification: Bot token or chat ID is not defined","timestamp":"2024-09-10T14:39:31.008Z"}
